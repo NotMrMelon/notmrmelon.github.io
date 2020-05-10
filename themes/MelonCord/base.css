@@ -100,7 +100,7 @@
   --text-dark: #666;
 }
 :root {
-  --roundness: 50px;
+  --roundness: 0px;
   --message-padding: var(--chat-message-padding, 20px);
   --message-spacing: var(--chat-message-spacing, 20px);
   --bd-blue: rgba(var(--accent), 1);
